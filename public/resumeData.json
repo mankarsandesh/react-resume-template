@@ -1,163 +1,181 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "name": "Sandesh Mankar",
+    "occupation": "Full Stack Developer",
+    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image": "profilepic.jpg",
+    "bio": "A passionate, forward-thinking developer offering more than 5+ years of experience including 2 years as freelancer building, integrating, testing, and supporting Web and Native Mobile Application. and Quick learner with strong interpersonal skills and proven ability to manage the positive and productive client relationship, problem solver.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+    "phone": "+91-9702242036",
+    "address": {
+      "street": "(Your Street)",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "400086"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
-    "social":[
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "https://www.facebook.com/mankarsandesh11/",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mankarsandesh/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
+        "name": "instagram",
+        "url": "http://instagram.com/sandesh_mankar",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
+        "name": "github",
+        "url": "http://github.com/mankarsandesh",
+        "className": "fa fa-github"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"http://github.com/tbakerx",
-        "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name": "skype",
+        "url": "http://skype.com",
+        "className": "fa fa-skype"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Mahatma Education Society's Pillai College of Engineering, New Panvel",
+        "degree": "Degree in Computer Engineering",
+        "graduated": "April 2018",
+        "description": "Forever Connect This project was a modification of a friend forever project where users can share and upload status images at one place. ie-Cloud like Cloud + Social + Sharing."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Padmabhushan VasantDada Patil Pratishthan's College of Engineering",
+        "degree": "Diploma in Computer Engineering",
+        "graduated": "March 2013",
+        "description": "Friend Forever: Users can share their status. Users can also upload and share images"
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "TNK",
+        "title": "Full Stack Engineer ",
+        "years": "March 2010 - Present",
+        "description": "Currently working as a front end team leader on Casino project Framework-javascript Vue.js Nuxt Single-page Application. and NodeJS used for Socket.  ● Participating in the design and creation of scalable software. ● Writing clean, functional code on the front and back-end  ● Testing and fixing bugs or other coding issues. ● Work with development teams and product managers to ideate software solutions ● Design client-side architecture."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Indian Talent Olympiad",
+        "title": "Team Leader",
+        "years": "July 2018 - July 2019",
+        "description": "Managed all the IT projects in this company (ie 6projects) Worked as a team leader and managed 5 team members by assigning respective tasks to them Also contributed to app and web Deployment on server. ● Write technical documentation,  ● Writing clean, functional code on the front and back-end. ● Testing and fixing bugs or other coding issues. ● Develop and manage well-functioning databases and applications."
+      },
+      {
+        "company": "Apptroid",
+        "title": "Web Developer",
+        "years": "April 2016 - March 2017",
+        "description": " Worked on real estate products and Multi-Level Marketing. Also worked on Project Management and File Management ( One Cloud). ● Write technical documentation with all team Members. ● Build features and applications with a mobile responsive design. ● Design client-side and server-side architecture."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Git",
-        "level":"60%"
+        "name": "Javascript",
+        "level": "70%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name": "Vue JS",
+        "level": "75%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name": "React JS",
+        "level": "50%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "PHP",
+        "level": "50%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name": "Laravel",
+        "level": "50%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name": "Codegintor",
+        "level": "50%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name": "Slim Framework",
+        "level": "50%"
+      },
+      {
+        "name": "Express",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "Ionic 3",
+        "level": "60%"
+      },
+      {
+        "name": "Github",
+        "level": "80%"
+      },
+      {
+        "name": "Docker",
+        "level": "60%"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "40%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "Whitelabel",
+        "category": "Frontend Developer",
+        "contribution": "Worked as a frontend team Leader. Working with Backend Team and planning to Design Frontend Part on timeline and also work with backend team help to design Database",
+        "technology": "VueJS,Nuxt.js, Vutify and Node JS",
+        "url": "https://www.canadianwanderlust.com",
+        "description" : "Users can register and play different online casino games like EC Gaming. Users can also add balance in their respective wallet and currency type may vary depending on their respective country."
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Whitelabel",
+        "category": "Frontend Developer",
+        "contribution": "Worked as a frontend team Leader. Working with Backend Team and planning to Design Frontend Part on timeline and also work with backend team help to design Database",
+        "technology": "VueJS,Nuxt.js, Vutify and Node JS",
+        "url": "https://www.canadianwanderlust.com",
+        "description" : "Users can register and play different online casino games like EC Gaming. Users can also add balance in their respective wallet and currency type may vary depending on their respective country."
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title": "Whitelabel",
+        "category": "Frontend Developer",
+        "contribution": "Worked as a frontend team Leader. Working with Backend Team and planning to Design Frontend Part on timeline and also work with backend team help to design Database",
+        "technology": "VueJS,Nuxt.js, Vutify and Node JS",
+        "url": "https://www.canadianwanderlust.com",
+        "description" : "Users can register and play different online casino games like EC Gaming. Users can also add balance in their respective wallet and currency type may vary depending on their respective country."
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
       }
     ]
   }

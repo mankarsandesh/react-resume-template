@@ -1,43 +1,41 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
 class Portfolio extends Component {
   render() {
+    if (this.props.data) {
+      var projects = this.props.data.projects.map(function(projects) {
+       
 
-    if(this.props.data){
-      var projects = this.props.data.projects.map(function(projects){
-        var projectImage = 'images/portfolio/'+projects.image;
-        return <div key={projects.title} className="columns portfolio-item">
-           <div className="item-wrap">
-            <a href={projects.url} title={projects.title}>
-               <img alt={projects.title} src={projectImage} />
-               <div className="overlay">
-                  <div className="portfolio-item-meta">
-                 <h5>{projects.title}</h5>
-                     <p>{projects.category}</p>
-                  </div>
-                </div>
-              <div className="link-icon"><i className="fa fa-link"></i></div>
-            </a>
+        return (
+          <div key={projects.title}>
+            <h3>{projects.title}</h3>
+            <p className="info">
+              {projects.category}               
+            </p>
+            <p>{projects.description}</p>
+            <b>My Contribution : </b> {projects.contribution} <br/>
+            <b>Technology : </b> {projects.technology}
           </div>
-        </div>
-      })
+        );
+      });
     }
 
     return (
-      <section id="portfolio">
+      <section id="resume">
+        <div className="row education">
+          <div className=" columns header-col">
+            <h1>
+              <span>PROJECTS</span>
+            </h1>
+          </div>
 
-      <div className="row">
-
-         <div className="twelve columns collapsed">
-
-            <h1>Check Out Some of My Works.</h1>
-
-            <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
-                {projects}
+          <div className="nine columns main-col">
+            <div className="row item">
+              <div className="columns main-col">{projects}</div>
             </div>
           </div>
-      </div>
-   </section>
+        </div>
+      </section>
     );
   }
 }
