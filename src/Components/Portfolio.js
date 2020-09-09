@@ -12,9 +12,10 @@ class Portfolio extends Component {
             <p className="info">
               {projects.category}               
             </p>
-            <p>{projects.description}</p>
+            <p>{projects.description} <br/>
             <b>My Contribution : </b> {projects.contribution} <br/>
             <b>Technology : </b> {projects.technology}
+            </p>
           </div>
         );
       });

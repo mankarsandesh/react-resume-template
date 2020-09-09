@@ -147,23 +147,39 @@
         "contribution": "Worked as a frontend team Leader. Working with Backend Team and planning to Design Frontend Part on timeline and also work with backend team help to design Database",
         "technology": "VueJS,Nuxt.js, Vutify and Node JS",
         "url": "https://www.canadianwanderlust.com",
-        "description" : "Users can register and play different online casino games like EC Gaming. Users can also add balance in their respective wallet and currency type may vary depending on their respective country."
+        "description": "Users can register and play different online casino games like EC Gaming. Users can also add balance in their respective wallet and currency type may vary depending on their respective country."
       },
       {
-        "title": "Whitelabel",
+        "title": "EC Gaming (Business Mode)",
         "category": "Frontend Developer",
-        "contribution": "Worked as a frontend team Leader. Working with Backend Team and planning to Design Frontend Part on timeline and also work with backend team help to design Database",
+        "contribution": "work as Frontend team Player and we Work on Vue js (NUXT)framework SPA Mode. In this Project we work on Socket things. Because lots of data comes from Socket. ",
         "technology": "VueJS,Nuxt.js, Vutify and Node JS",
         "url": "https://www.canadianwanderlust.com",
-        "description" : "Users can register and play different online casino games like EC Gaming. Users can also add balance in their respective wallet and currency type may vary depending on their respective country."
+        "description": "Casino software where users can do Betting on Stock last digit number .This game also has different types of rules.We provide our Api’s to another Casino as a third party api."
       },
       {
-        "title": "Whitelabel",
+        "title": "EC Gaming (Game Mode)",
         "category": "Frontend Developer",
-        "contribution": "Worked as a frontend team Leader. Working with Backend Team and planning to Design Frontend Part on timeline and also work with backend team help to design Database",
-        "technology": "VueJS,Nuxt.js, Vutify and Node JS",
+        "contribution": "Worked as a Frontend Team player and working on React Js,redux and Material UI for Design framework. Node js for Socket Connection with Stock real Price.",
+        "technology": "React Js , Redux , Material UI and Node JS",
         "url": "https://www.canadianwanderlust.com",
-        "description" : "Users can register and play different online casino games like EC Gaming. Users can also add balance in their respective wallet and currency type may vary depending on their respective country."
+        "description": "There is another EC Gaming Mode that looks like a Game. Users can Bet on Stock Every 1 min and 5 Min game"
+      },
+      {
+        "title": "Shaadi Proposal",
+        "category": "Team Leader",
+        "contribution": "-My main Role is this working on Frontend and Backend Part as well as Design  Database. and solve real-time problems in this project like matching people with the same  interest",
+        "technology": "Mysql, Codeigniter , HTML ,Javascript , Jquery, Bootstrap , AWS S3 , AWS EC2 ,Ionic 3 , Android and IOS deployment",
+        "url": "https://www.canadianwanderlust.com",
+        "description": "Shaadi Proposal Platform find your perfect Wedding Partner Select & Connect with Matches you like in Indian. and Around 30k User Register in Year. "
+      },
+      {
+        "title": "Olympiad",
+        "category": "Team Leader",
+        "contribution": "Managed admin panel , Working on REST API with android Team and deployed the latest APK version on play store.",
+        "technology": "Mysql, Codeigniter, HTML, Bootstrap , Javascript, AWS S3 , AWS EC2 , Android  deployment.",
+        "url": "https://www.canadianwanderlust.com",
+        "description": "This app specifically focuses on school students. Students can buy subjects and study wise  membership and give mcq quiz. Across 10k students have subscribed to this application . My role -Managed admin panel and deployed the latest version on play store."
       }
     ]
   },
